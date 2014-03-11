@@ -1,0 +1,2447 @@
+{
+    "assets": [
+        {
+            "asset": "../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist", 
+            "target": "ResourceRules.plist"
+        }, 
+        {
+            "asset": "userInterfaceArt/currency_dollar_yellow.png", 
+            "target": "currency_dollar_yellow.png"
+        }, 
+        {
+            "asset": "smileyicons64x/51to60.png", 
+            "target": "51to60.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/welcomelogo.png", 
+            "target": "welcomelogo.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/profile-sillhouette.png", 
+            "target": "profile-sillhouette.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/close-button.png", 
+            "target": "close-button.png"
+        }, 
+        {
+            "asset": "guess-most-popular-button.png", 
+            "target": "guess-most-popular-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/large-square.png", 
+            "target": "large-square.png"
+        }, 
+        {
+            "asset": "petGallery/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "userInterfaceArt/backbutton.jpg", 
+            "target": "backbutton.jpg"
+        }, 
+        {
+            "asset": "userInterfaceArt/view-my-favourites.png", 
+            "target": "view-my-favourites.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/background-with-logo.png", 
+            "target": "background-with-logo.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/try-again-button.png", 
+            "target": "try-again-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/my-submissions-background.png", 
+            "target": "my-submissions-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/background-login.png", 
+            "target": "background-login.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/pinterest.png", 
+            "target": "pinterest.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/View-content-button.png", 
+            "target": "View-content-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/category-challenge-new-size.png", 
+            "target": "category-challenge-new-size.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/swipe.png", 
+            "target": "swipe.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Imgur Logo BW.png", 
+            "target": "Imgur Logo BW.png"
+        }, 
+        {
+            "asset": "smileyicons64x/91to95.png", 
+            "target": "91to95.png"
+        }, 
+        {
+            "asset": "BadgeCollectionViewCell.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "userInterfaceArt/progressbackground.png", 
+            "target": "progressbackground.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/storeGold-icon.png", 
+            "target": "storeGold-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/mypurchasedback-button-store.png", 
+            "target": "mypurchasedback-button-store.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/smallsquare.png", 
+            "target": "smallsquare.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/ok-button.png", 
+            "target": "ok-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/heartvote.png", 
+            "target": "heartvote.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/leaderboards-button.png", 
+            "target": "leaderboards-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/parts.png", 
+            "target": "parts.png"
+        }, 
+        {
+            "asset": "smileyicons64x/1to5.png", 
+            "target": "1to5.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/logo-login.png", 
+            "target": "logo-login.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/libary-button.png", 
+            "target": "libary-button.png"
+        }, 
+        {
+            "asset": "sounds/POL-confident-long.aiff", 
+            "target": "POL-confident-long.aiff"
+        }, 
+        {
+            "asset": "smileyicons64x/96to100.png", 
+            "target": "96to100.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/buy-more-button.png", 
+            "target": "buy-more-button.png"
+        }, 
+        {
+            "asset": "app-icon-ios6 29.png", 
+            "target": "app-icon-ios6 29.png"
+        }, 
+        {
+            "asset": "percent-icon.png", 
+            "target": "percent-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Score-popup-top-of-pic.png", 
+            "target": "Score-popup-top-of-pic.png"
+        }, 
+        {
+            "asset": "smileyicons64x/11to20.png", 
+            "target": "11to20.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Pick-fave-button-new-size.png", 
+            "target": "Pick-fave-button-new-size.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/My-stuff.png", 
+            "target": "My-stuff.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/longer-xp-bar.png", 
+            "target": "longer-xp-bar.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Most-popular-bigger.png", 
+            "target": "Most-popular-bigger.png"
+        }, 
+        {
+            "asset": "gold_coin_single_64.png", 
+            "target": "gold_coin_single_64.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/star.png", 
+            "target": "star.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/signup-button.png", 
+            "target": "signup-button.png"
+        }, 
+        {
+            "asset": "btn_12.png", 
+            "target": "btn_12.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/new-34-heart.png", 
+            "target": "new-34-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Swipe_Right.png", 
+            "target": "Swipe_Right.png"
+        }, 
+        {
+            "asset": "petGallery/Pinterest.embeddedframework/Resources/PinterestSDKResources.bundle", 
+            "target": "PinterestSDKResources.bundle"
+        }, 
+        {
+            "asset": "userInterfaceArt/mypurchasedheart.png", 
+            "target": "mypurchasedheart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Rank2.png", 
+            "target": "Rank2.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/34-heart.png", 
+            "target": "34-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/buystuffbackground.png", 
+            "target": "buystuffbackground.png"
+        }, 
+        {
+            "asset": "petGallery/en.lproj/MainStoryboard.storyboard", 
+            "target": null
+        }, 
+        {
+            "asset": "userInterfaceArt/show-button.png", 
+            "target": "show-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/diamond-icon.png", 
+            "target": "diamond-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacebackground.png", 
+            "target": "marketplacebackground.png"
+        }, 
+        {
+            "asset": "petGallery/IMG_0002.jpg", 
+            "target": "IMG_0002.jpg"
+        }, 
+        {
+            "asset": "CooperBlackStd.otf", 
+            "target": "CooperBlackStd.otf"
+        }, 
+        {
+            "asset": "icon-58x58-px.png", 
+            "target": "icon-58x58-px.png"
+        }, 
+        {
+            "asset": "icon-57x57-px.png", 
+            "target": "icon-57x57-px.png"
+        }, 
+        {
+            "asset": "petGallery/IMG_0003.jpg", 
+            "target": "IMG_0003.jpg"
+        }, 
+        {
+            "asset": "icon-80x80-px.png", 
+            "target": "icon-80x80-px.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/buy-gold-and-diamond-button.png", 
+            "target": "buy-gold-and-diamond-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/mpbackground-for-content.png", 
+            "target": "mpbackground-for-content.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/camera-button.png", 
+            "target": "camera-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/category-challenge-text.png", 
+            "target": "category-challenge-text.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/storediamond-icon.png", 
+            "target": "storediamond-icon.png"
+        }, 
+        {
+            "asset": "smileyicons64x/31to40.png", 
+            "target": "31to40.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/checkmark-icon.png", 
+            "target": "checkmark-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/new-quarter-heart.png", 
+            "target": "new-quarter-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/mpframe-for-expiry-text.png", 
+            "target": "mpframe-for-expiry-text.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/browse-top-bar-left.png", 
+            "target": "browse-top-bar-left.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/summarynext-button.png", 
+            "target": "summarynext-button.png"
+        }, 
+        {
+            "asset": "smileyicons64x/21to30.png", 
+            "target": "21to30.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Top-bar-background.png", 
+            "target": "Top-bar-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Browse.png", 
+            "target": "Browse.png"
+        }, 
+        {
+            "asset": "app-icon-ios6 80.png", 
+            "target": "app-icon-ios6 80.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/difficult-challenge-background.png", 
+            "target": "difficult-challenge-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/wsnew-background.png", 
+            "target": "wsnew-background.png"
+        }, 
+        {
+            "asset": "icon-120x120-px.png", 
+            "target": "icon-120x120-px.png"
+        }, 
+        {
+            "asset": "app-icon-ios6 58.png", 
+            "target": "app-icon-ios6 58.png"
+        }, 
+        {
+            "asset": "petGallery/IMG_0004.jpg", 
+            "target": "IMG_0004.jpg"
+        }, 
+        {
+            "asset": "userInterfaceArt/difficult-frame-new-size.png", 
+            "target": "difficult-frame-new-size.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/category-1.png", 
+            "target": "category-1.png"
+        }, 
+        {
+            "asset": "petGallery/IMG_0006.jpg", 
+            "target": "IMG_0006.jpg"
+        }, 
+        {
+            "asset": "userInterfaceArt/imgloadingplaceholder.png", 
+            "target": "imgloadingplaceholder.png"
+        }, 
+        {
+            "asset": "petGallery/IMG_0007.JPG", 
+            "target": "IMG_0007.JPG"
+        }, 
+        {
+            "asset": "userInterfaceArt/storetop-bar.png", 
+            "target": "storetop-bar.png"
+        }, 
+        {
+            "asset": "app-icon-ios6 57.png", 
+            "target": "app-icon-ios6 57.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/sharebutton.jpg", 
+            "target": "sharebutton.jpg"
+        }, 
+        {
+            "asset": "icon-114x114-px.png", 
+            "target": "icon-114x114-px.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/mpshare-button.png", 
+            "target": "mpshare-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/scorecellimage.png", 
+            "target": "scorecellimage.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/topbargold icon.png", 
+            "target": "topbargold icon.png"
+        }, 
+        {
+            "asset": "Icon.png", 
+            "target": "Icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/gold-icon.png", 
+            "target": "gold-icon.png"
+        }, 
+        {
+            "asset": "Icon@2x.png", 
+            "target": "Icon@2x.png"
+        }, 
+        {
+            "asset": "Copperplate.ttc", 
+            "target": "Copperplate.ttc"
+        }, 
+        {
+            "asset": "userInterfaceArt/half-heart.png", 
+            "target": "half-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/start-voting-button.png", 
+            "target": "start-voting-button.png"
+        }, 
+        {
+            "asset": "Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "HoboStd.otf", 
+            "target": "HoboStd.otf"
+        }, 
+        {
+            "asset": "Pick-Favourite-Button.png", 
+            "target": "Pick-Favourite-Button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/full-heart.png", 
+            "target": "full-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bottom-bar-test.png", 
+            "target": "bottom-bar-test.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/twitterdetail.png", 
+            "target": "twitterdetail.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/lossscreenbackground.png", 
+            "target": "lossscreenbackground.png"
+        }, 
+        {
+            "asset": "petGallery/achievementsData.plist", 
+            "target": "achievementsData.plist"
+        }, 
+        {
+            "asset": "Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/blue-background.png", 
+            "target": "blue-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/mpbackground.png", 
+            "target": "mpbackground.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/placeholder@2x.png", 
+            "target": "placeholder@2x.png"
+        }, 
+        {
+            "asset": "icon-29x29-px.png", 
+            "target": "icon-29x29-px.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/settings-button.png", 
+            "target": "settings-button.png"
+        }, 
+        {
+            "asset": "smileyicons64x/71to80.png", 
+            "target": "71to80.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/speaker-mute.png", 
+            "target": "speaker-mute.png"
+        }, 
+        {
+            "asset": "petGallery/VoteScreenCollectionViewCell.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "userInterfaceArt/category-challenge-frames.png", 
+            "target": "category-challenge-frames.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/heart-icon.png", 
+            "target": "heart-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/browse-top-bar-right.png", 
+            "target": "browse-top-bar-right.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/difficult-challenge-frames.png", 
+            "target": "difficult-challenge-frames.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/exclamation5.png", 
+            "target": "exclamation5.png"
+        }, 
+        {
+            "asset": "Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/facebookdetail.png", 
+            "target": "facebookdetail.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/hearmysite.png", 
+            "target": "hearmysite.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/free-pass-frame-new-size.png", 
+            "target": "free-pass-frame-new-size.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/topbardiamond-icon.png", 
+            "target": "topbardiamond-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/back-button.png", 
+            "target": "back-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacetopbar-right.png", 
+            "target": "marketplacetopbar-right.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacetopbar-middle.png", 
+            "target": "marketplacetopbar-middle.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/browse-button.png", 
+            "target": "browse-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/view-my-submissions.png", 
+            "target": "view-my-submissions.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bluepercenticon.png", 
+            "target": "bluepercenticon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/particle.png", 
+            "target": "particle.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/home-screen-background.png", 
+            "target": "home-screen-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/quarter-heart.png", 
+            "target": "quarter-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/facebook-login.png", 
+            "target": "facebook-login.png"
+        }, 
+        {
+            "asset": "Exit.png", 
+            "target": "Exit.png"
+        }, 
+        {
+            "asset": "ExitDown.png", 
+            "target": "ExitDown.png"
+        }, 
+        {
+            "asset": "TwitterDown.png", 
+            "target": "TwitterDown.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/free-pass-frames.png", 
+            "target": "free-pass-frames.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/imgforswipe.png", 
+            "target": "imgforswipe.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/newtop-bar-background.png", 
+            "target": "newtop-bar-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/diamond-bar.png", 
+            "target": "diamond-bar.png"
+        }, 
+        {
+            "asset": "Facebook.png", 
+            "target": "Facebook.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/guess-popular-new-design.png", 
+            "target": "guess-popular-new-design.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/out-of-diamonds.png", 
+            "target": "out-of-diamonds.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/email.png", 
+            "target": "email.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/All-button.png", 
+            "target": "All-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/browse-top-bar.png", 
+            "target": "browse-top-bar.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/guess-most-popular-hotpink.png", 
+            "target": "guess-most-popular-hotpink.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacebuy-button.png", 
+            "target": "marketplacebuy-button.png"
+        }, 
+        {
+            "asset": "MCCollectionViewCell.xib", 
+            "target": null
+        }, 
+        {
+            "asset": "FacebookDown.png", 
+            "target": "FacebookDown.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bb-buy.png", 
+            "target": "bb-buy.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Level-bar.png", 
+            "target": "Level-bar.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/blackbutton.png", 
+            "target": "blackbutton.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/reddit.png", 
+            "target": "reddit.png"
+        }, 
+        {
+            "asset": "LoginFieldBG.png", 
+            "target": "LoginFieldBG.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/lossscreendiamond.png", 
+            "target": "lossscreendiamond.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/heartbutton.jpg", 
+            "target": "heartbutton.jpg"
+        }, 
+        {
+            "asset": "smileyicons64x/81to85.png", 
+            "target": "81to85.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/goldstore-top-bar.png", 
+            "target": "goldstore-top-bar.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/vote-tutorial.png", 
+            "target": "vote-tutorial.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/free-pass-background.png", 
+            "target": "free-pass-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Collections-button.png", 
+            "target": "Collections-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/refill-button.png", 
+            "target": "refill-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacetopbar-left.png", 
+            "target": "marketplacetopbar-left.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/speaker.png", 
+            "target": "speaker.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/submit-tutorial.png", 
+            "target": "submit-tutorial.png"
+        }, 
+        {
+            "asset": "CooperBlackStd-Italic.otf", 
+            "target": "CooperBlackStd-Italic.otf"
+        }, 
+        {
+            "asset": "64_checkmark.png", 
+            "target": "64_checkmark.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/blue-backgroundnosections.png", 
+            "target": "blue-backgroundnosections.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/submitcontentbackground.png", 
+            "target": "submitcontentbackground.png"
+        }, 
+        {
+            "asset": "piccitscreen.png", 
+            "target": "piccitscreen.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/levelupbackground.png", 
+            "target": "levelupbackground.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/out.png", 
+            "target": "out.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/topbarplus-icon.png", 
+            "target": "topbarplus-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Friends-button.png", 
+            "target": "Friends-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Browse-Content-button.png", 
+            "target": "Browse-Content-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/levelupstar.png", 
+            "target": "levelupstar.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/difficult-challenge-text.png", 
+            "target": "difficult-challenge-text.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacebackground-for-content.png", 
+            "target": "marketplacebackground-for-content.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/free-pass-text.png", 
+            "target": "free-pass-text.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bb-progress.png", 
+            "target": "bb-progress.png"
+        }, 
+        {
+            "asset": "Second-screen.png", 
+            "target": "Second-screen.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/empty-heart.png", 
+            "target": "empty-heart.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/submit-button.png", 
+            "target": "submit-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/background.png", 
+            "target": "background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bb-browse.png", 
+            "target": "bb-browse.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/get-free-button.png", 
+            "target": "get-free-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bb-vote.png", 
+            "target": "bb-vote.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/line.png", 
+            "target": "line.png"
+        }, 
+        {
+            "asset": "MainBG.png", 
+            "target": "MainBG.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/tutorial-buy-stuff.png", 
+            "target": "tutorial-buy-stuff.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/play-button.png", 
+            "target": "play-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/pick-fave-new-design.png", 
+            "target": "pick-fave-new-design.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Progress.png", 
+            "target": "Progress.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/topbarstar.png", 
+            "target": "topbarstar.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Vote.png", 
+            "target": "Vote.png"
+        }, 
+        {
+            "asset": "sounds/POL-confident-short.wav", 
+            "target": "POL-confident-short.wav"
+        }, 
+        {
+            "asset": "userInterfaceArt/topbarglobe-icon.png", 
+            "target": "topbarglobe-icon.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/pick-fave-new-design2.png", 
+            "target": "pick-fave-new-design2.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/bb-my-stuff.png", 
+            "target": "bb-my-stuff.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Rank3.png", 
+            "target": "Rank3.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/marketplacetop-bar.png", 
+            "target": "marketplacetop-bar.png"
+        }, 
+        {
+            "asset": "SignUp.png", 
+            "target": "SignUp.png"
+        }, 
+        {
+            "asset": "smileyicons64x/41to50.png", 
+            "target": "41to50.png"
+        }, 
+        {
+            "asset": "app-icon-ios6.png", 
+            "target": "app-icon-ios6.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Best-value-bigger.png", 
+            "target": "Best-value-bigger.png"
+        }, 
+        {
+            "asset": "app-icon.png", 
+            "target": "app-icon.png"
+        }, 
+        {
+            "asset": "petGallery/saveData.plist", 
+            "target": "saveData.plist"
+        }, 
+        {
+            "asset": "smileyicons64x/61to70.png", 
+            "target": "61to70.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Rank1.png", 
+            "target": "Rank1.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Bottom-bar-totalcropped.png", 
+            "target": "Bottom-bar-totalcropped.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/guess-most-popular-button-resized.png", 
+            "target": "guess-most-popular-button-resized.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Image-frame.png", 
+            "target": "Image-frame.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/xp-bar.png", 
+            "target": "xp-bar.png"
+        }, 
+        {
+            "asset": "smileyicons64x/6to10.png", 
+            "target": "6to10.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/longer-loseScreen.png", 
+            "target": "longer-loseScreen.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/View-badges-button.png", 
+            "target": "View-badges-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/level-bar-fill.png", 
+            "target": "level-bar-fill.png"
+        }, 
+        {
+            "asset": "SignUpDown.png", 
+            "target": "SignUpDown.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/gold-bar.png", 
+            "target": "gold-bar.png"
+        }, 
+        {
+            "asset": "smileyicons64x/86to90.png", 
+            "target": "86to90.png"
+        }, 
+        {
+            "asset": "SignUpFieldBG.png", 
+            "target": "SignUpFieldBG.png"
+        }, 
+        {
+            "asset": "Confetti.png", 
+            "target": "Confetti.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/out-of-hearts.png", 
+            "target": "out-of-hearts.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Swipe_Left.png", 
+            "target": "Swipe_Left.png"
+        }, 
+        {
+            "asset": "Twitter.png", 
+            "target": "Twitter.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/Buy.png", 
+            "target": "Buy.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/hide-button.png", 
+            "target": "hide-button.png"
+        }, 
+        {
+            "asset": "Particles_fire.png", 
+            "target": "Particles_fire.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/category-challenge-background.png", 
+            "target": "category-challenge-background.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/submit-new-content.png", 
+            "target": "submit-new-content.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/mypurchasedcollect-button.png", 
+            "target": "mypurchasedcollect-button.png"
+        }, 
+        {
+            "asset": "userInterfaceArt/login-button.png", 
+            "target": "login-button.png"
+        }, 
+        {
+            "asset": "petGallery/External/GHUnit/README-GHUnit", 
+            "target": "README-GHUnit"
+        }, 
+        {
+            "asset": "userInterfaceArt/bottom-bar-with-dividers.png", 
+            "target": "bottom-bar-with-dividers.png"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "PickSmthng", 
+        "APPLICATION_IDENTIFIER": "com.contentgames.picksomething", 
+        "APPLICATION_NAME": "PickSmthng", 
+        "LONG_VERSION": "1.12", 
+        "SHORT_VERSION": "1.01", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "PickSmthng", 
+            "PRODUCT_NAME": "PickSmthng"
+        }, 
+        "URL_SCHEME": [
+            "fb366829830120069", 
+            "pin1433833", 
+            "fb366829830120069", 
+            "pin1433833"
+        ]
+    }, 
+    "defines": {
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 60100
+    }, 
+    "deps": [
+        "UIKit", 
+        "MessageUI", 
+        "MediaPlayer", 
+        "EventKit", 
+        "EventKitUI", 
+        "CoreTelephony", 
+        "CoreMedia", 
+        "ImageIO", 
+        "AVFoundation", 
+        "SystemConfiguration", 
+        "Security", 
+        "AdColony", 
+        "QuartzCore", 
+        "MobileCoreServices", 
+        "Pinterest", 
+        "CoreLocation", 
+        "CFNetwork", 
+        "AudioToolbox", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics", 
+        "StoreKit", 
+        "Parse", 
+        "SDWebImage", 
+        "FacebookSDK"
+    ], 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "PickSmthng-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "PickSmthng-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "PickSmthng-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "PickSmthng-project-headers.hmap", 
+            "hmap": {
+                "ASIAuthenticationDialog.h": {
+                    "key": "ASIAuthenticationDialog.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIAuthenticationDialog.h"
+                }, 
+                "ASICacheDelegate.h": {
+                    "key": "ASICacheDelegate.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASICacheDelegate.h"
+                }, 
+                "ASICloudFilesCDNRequest.h": {
+                    "key": "ASICloudFilesCDNRequest.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesCDNRequest.h"
+                }, 
+                "ASICloudFilesContainer.h": {
+                    "key": "ASICloudFilesContainer.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesContainer.h"
+                }, 
+                "ASICloudFilesContainerRequest.h": {
+                    "key": "ASICloudFilesContainerRequest.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesContainerRequest.h"
+                }, 
+                "ASICloudFilesContainerXMLParserDelegate.h": {
+                    "key": "ASICloudFilesContainerXMLParserDelegate.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesContainerXMLParserDelegate.h"
+                }, 
+                "ASICloudFilesObject.h": {
+                    "key": "ASICloudFilesObject.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesObject.h"
+                }, 
+                "ASICloudFilesObjectRequest.h": {
+                    "key": "ASICloudFilesObjectRequest.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesObjectRequest.h"
+                }, 
+                "ASICloudFilesRequest.h": {
+                    "key": "ASICloudFilesRequest.h", 
+                    "prefix": "petGallery/http Classes/CloudFiles/", 
+                    "suffix": "ASICloudFilesRequest.h"
+                }, 
+                "ASIDataCompressor.h": {
+                    "key": "ASIDataCompressor.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIDataCompressor.h"
+                }, 
+                "ASIDataDecompressor.h": {
+                    "key": "ASIDataDecompressor.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIDataDecompressor.h"
+                }, 
+                "ASIDownloadCache.h": {
+                    "key": "ASIDownloadCache.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIDownloadCache.h"
+                }, 
+                "ASIFormDataRequest.h": {
+                    "key": "ASIFormDataRequest.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIFormDataRequest.h"
+                }, 
+                "ASIHTTPRequest.h": {
+                    "key": "ASIHTTPRequest.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIHTTPRequest.h"
+                }, 
+                "ASIHTTPRequestConfig.h": {
+                    "key": "ASIHTTPRequestConfig.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIHTTPRequestConfig.h"
+                }, 
+                "ASIHTTPRequestDelegate.h": {
+                    "key": "ASIHTTPRequestDelegate.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIHTTPRequestDelegate.h"
+                }, 
+                "ASIInputStream.h": {
+                    "key": "ASIInputStream.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIInputStream.h"
+                }, 
+                "ASINSXMLParserCompat.h": {
+                    "key": "ASINSXMLParserCompat.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASINSXMLParserCompat.h"
+                }, 
+                "ASINetworkQueue.h": {
+                    "key": "ASINetworkQueue.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASINetworkQueue.h"
+                }, 
+                "ASIProgressDelegate.h": {
+                    "key": "ASIProgressDelegate.h", 
+                    "prefix": "petGallery/http Classes/", 
+                    "suffix": "ASIProgressDelegate.h"
+                }, 
+                "ASIS3Bucket.h": {
+                    "key": "ASIS3Bucket.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASIS3Bucket.h"
+                }, 
+                "ASIS3BucketObject.h": {
+                    "key": "ASIS3BucketObject.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASIS3BucketObject.h"
+                }, 
+                "ASIS3BucketRequest.h": {
+                    "key": "ASIS3BucketRequest.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASIS3BucketRequest.h"
+                }, 
+                "ASIS3ObjectRequest.h": {
+                    "key": "ASIS3ObjectRequest.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASIS3ObjectRequest.h"
+                }, 
+                "ASIS3Request.h": {
+                    "key": "ASIS3Request.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASIS3Request.h"
+                }, 
+                "ASIS3ServiceRequest.h": {
+                    "key": "ASIS3ServiceRequest.h", 
+                    "prefix": "petGallery/http Classes/S3/", 
+                    "suffix": "ASIS3ServiceRequest.h"
+                }, 
+                "AddContentViewController.h": {
+                    "key": "AddContentViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "AddContentViewController.h"
+                }, 
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "BadgeCollectionViewCell.h": {
+                    "key": "BadgeCollectionViewCell.h", 
+                    "prefix": "./", 
+                    "suffix": "BadgeCollectionViewCell.h"
+                }, 
+                "BadgesUICollectionView.h": {
+                    "key": "BadgesUICollectionView.h", 
+                    "prefix": "./", 
+                    "suffix": "BadgesUICollectionView.h"
+                }, 
+                "BadgesViewController.h": {
+                    "key": "BadgesViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "BadgesViewController.h"
+                }, 
+                "BuyPetViewController.h": {
+                    "key": "BuyPetViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "BuyPetViewController.h"
+                }, 
+                "BuyStuffViewController.h": {
+                    "key": "BuyStuffViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "BuyStuffViewController.h"
+                }, 
+                "CelebrateParticleView.h": {
+                    "key": "CelebrateParticleView.h", 
+                    "prefix": "./", 
+                    "suffix": "CelebrateParticleView.h"
+                }, 
+                "ContentSelectCaptionViewController.h": {
+                    "key": "ContentSelectCaptionViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentSelectCaptionViewController.h"
+                }, 
+                "ContentSelectHashtagsViewController.h": {
+                    "key": "ContentSelectHashtagsViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentSelectHashtagsViewController.h"
+                }, 
+                "ContentSelectPerformanceStatsViewController.h": {
+                    "key": "ContentSelectPerformanceStatsViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentSelectPerformanceStatsViewController.h"
+                }, 
+                "ContentSelectRatingViewController.h": {
+                    "key": "ContentSelectRatingViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentSelectRatingViewController.h"
+                }, 
+                "ContentSelectReportInappropriateViewController.h": {
+                    "key": "ContentSelectReportInappropriateViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentSelectReportInappropriateViewController.h"
+                }, 
+                "ContentSelectSocialViewController.h": {
+                    "key": "ContentSelectSocialViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentSelectSocialViewController.h"
+                }, 
+                "ContentVotingViewController.h": {
+                    "key": "ContentVotingViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "ContentVotingViewController.h"
+                }, 
+                "Emitter.h": {
+                    "key": "Emitter.h", 
+                    "prefix": "./", 
+                    "suffix": "Emitter.h"
+                }, 
+                "FPCollectionViewCell.h": {
+                    "key": "FPCollectionViewCell.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "FPCollectionViewCell.h"
+                }, 
+                "FrontPageNewPFQueryTableViewController.h": {
+                    "key": "FrontPageNewPFQueryTableViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "FrontPageNewPFQueryTableViewController.h"
+                }, 
+                "FrontPagePFQueryTableViewController.h": {
+                    "key": "FrontPagePFQueryTableViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "FrontPagePFQueryTableViewController.h"
+                }, 
+                "FrontPageSelectionViewController.h": {
+                    "key": "FrontPageSelectionViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "FrontPageSelectionViewController.h"
+                }, 
+                "FrontPageViewController.h": {
+                    "key": "FrontPageViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "FrontPageViewController.h"
+                }, 
+                "FullImageViewController.h": {
+                    "key": "FullImageViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "FullImageViewController.h"
+                }, 
+                "GlobeParticleEmitter.h": {
+                    "key": "GlobeParticleEmitter.h", 
+                    "prefix": "./", 
+                    "suffix": "GlobeParticleEmitter.h"
+                }, 
+                "GoldCoinParticleEmitter.h": {
+                    "key": "GoldCoinParticleEmitter.h", 
+                    "prefix": "./", 
+                    "suffix": "GoldCoinParticleEmitter.h"
+                }, 
+                "GoldStoreViewController.h": {
+                    "key": "GoldStoreViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "GoldStoreViewController.h"
+                }, 
+                "HashtagSearchViewController.h": {
+                    "key": "HashtagSearchViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "HashtagSearchViewController.h"
+                }, 
+                "IAPHelper.h": {
+                    "key": "IAPHelper.h", 
+                    "prefix": "./", 
+                    "suffix": "IAPHelper.h"
+                }, 
+                "InfluenceCollectionViewController.h": {
+                    "key": "InfluenceCollectionViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "InfluenceCollectionViewController.h"
+                }, 
+                "InternetOfflineViewController.h": {
+                    "key": "InternetOfflineViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "InternetOfflineViewController.h"
+                }, 
+                "JSON.h": {
+                    "key": "JSON.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "JSON.h"
+                }, 
+                "LeaderboardPFQueryTableViewController.h": {
+                    "key": "LeaderboardPFQueryTableViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "LeaderboardPFQueryTableViewController.h"
+                }, 
+                "LeaderboardsViewController.h": {
+                    "key": "LeaderboardsViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "LeaderboardsViewController.h"
+                }, 
+                "LevelUpViewController.h": {
+                    "key": "LevelUpViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "LevelUpViewController.h"
+                }, 
+                "LossScreenViewController.h": {
+                    "key": "LossScreenViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "LossScreenViewController.h"
+                }, 
+                "MBProgressHUD.h": {
+                    "key": "MBProgressHUD.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MBProgressHUD.h"
+                }, 
+                "MCCollectionViewCell.h": {
+                    "key": "MCCollectionViewCell.h", 
+                    "prefix": "./", 
+                    "suffix": "MCCollectionViewCell.h"
+                }, 
+                "MainLoadTabBarController.h": {
+                    "key": "MainLoadTabBarController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MainLoadTabBarController.h"
+                }, 
+                "MarketScreenViewController.h": {
+                    "key": "MarketScreenViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MarketScreenViewController.h"
+                }, 
+                "MarketplaceQueryTableViewController.h": {
+                    "key": "MarketplaceQueryTableViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MarketplaceQueryTableViewController.h"
+                }, 
+                "MarketplaceQueryUITableViewCell.h": {
+                    "key": "MarketplaceQueryUITableViewCell.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MarketplaceQueryUITableViewCell.h"
+                }, 
+                "MarketplaceTableViewController.h": {
+                    "key": "MarketplaceTableViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MarketplaceTableViewController.h"
+                }, 
+                "MyContentViewController.h": {
+                    "key": "MyContentViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyContentViewController.h"
+                }, 
+                "MyPetCollectUIButton.h": {
+                    "key": "MyPetCollectUIButton.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyPetCollectUIButton.h"
+                }, 
+                "MyPetDetailsNavViewController.h": {
+                    "key": "MyPetDetailsNavViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyPetDetailsNavViewController.h"
+                }, 
+                "MyPetDetailsViewController.h": {
+                    "key": "MyPetDetailsViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyPetDetailsViewController.h"
+                }, 
+                "MyPetsQueryTableViewController.h": {
+                    "key": "MyPetsQueryTableViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyPetsQueryTableViewController.h"
+                }, 
+                "MyPetsQueryUITableViewCell.h": {
+                    "key": "MyPetsQueryUITableViewCell.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyPetsQueryUITableViewCell.h"
+                }, 
+                "MySignUpViewController.h": {
+                    "key": "MySignUpViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MySignUpViewController.h"
+                }, 
+                "MyStuffViewController.h": {
+                    "key": "MyStuffViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "MyStuffViewController.h"
+                }, 
+                "NSMutableArray+NSMutableArrayShuffle.h": {
+                    "key": "NSMutableArray+NSMutableArrayShuffle.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "NSMutableArray+NSMutableArrayShuffle.h"
+                }, 
+                "NSObject+SBJSON.h": {
+                    "key": "NSObject+SBJSON.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "NSObject+SBJSON.h"
+                }, 
+                "NSString+SBJSON.h": {
+                    "key": "NSString+SBJSON.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "NSString+SBJSON.h"
+                }, 
+                "PSCollectionView.h": {
+                    "key": "PSCollectionView.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PSCollectionView.h"
+                }, 
+                "PSCollectionViewCell.h": {
+                    "key": "PSCollectionViewCell.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PSCollectionViewCell.h"
+                }, 
+                "Pet.h": {
+                    "key": "Pet.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "Pet.h"
+                }, 
+                "PetLoginViewController.h": {
+                    "key": "PetLoginViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PetLoginViewController.h"
+                }, 
+                "PetPhotoDetailViewController.h": {
+                    "key": "PetPhotoDetailViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PetPhotoDetailViewController.h"
+                }, 
+                "PetPhotoViewController.h": {
+                    "key": "PetPhotoViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PetPhotoViewController.h"
+                }, 
+                "PetRatingViewController.h": {
+                    "key": "PetRatingViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PetRatingViewController.h"
+                }, 
+                "Pick Something-Prefix.pch": {
+                    "key": "Pick Something-Prefix.pch", 
+                    "prefix": "petGallery/", 
+                    "suffix": "Pick Something-Prefix.pch"
+                }, 
+                "PickIAPHelper.h": {
+                    "key": "PickIAPHelper.h", 
+                    "prefix": "./", 
+                    "suffix": "PickIAPHelper.h"
+                }, 
+                "PlayerData.h": {
+                    "key": "PlayerData.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PlayerData.h"
+                }, 
+                "PlayerProfileViewController.h": {
+                    "key": "PlayerProfileViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PlayerProfileViewController.h"
+                }, 
+                "PlayerProgressViewController.h": {
+                    "key": "PlayerProgressViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "PlayerProgressViewController.h"
+                }, 
+                "PopupViewController.h": {
+                    "key": "PopupViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "PopupViewController.h"
+                }, 
+                "Reachability.h": {
+                    "key": "Reachability.h", 
+                    "prefix": "petGallery/External/http Reachability/", 
+                    "suffix": "Reachability.h"
+                }, 
+                "SBJSON.h": {
+                    "key": "SBJSON.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "SBJSON.h"
+                }, 
+                "SBJsonBase.h": {
+                    "key": "SBJsonBase.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "SBJsonBase.h"
+                }, 
+                "SBJsonParser.h": {
+                    "key": "SBJsonParser.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "SBJsonParser.h"
+                }, 
+                "SBJsonWriter.h": {
+                    "key": "SBJsonWriter.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "SBJsonWriter.h"
+                }, 
+                "SearchResultsViewController.h": {
+                    "key": "SearchResultsViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "SearchResultsViewController.h"
+                }, 
+                "TopBarViewController.h": {
+                    "key": "TopBarViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "TopBarViewController.h"
+                }, 
+                "TopBarWithBackButtonViewController.h": {
+                    "key": "TopBarWithBackButtonViewController.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "TopBarWithBackButtonViewController.h"
+                }, 
+                "TutorialPopupUIView.h": {
+                    "key": "TutorialPopupUIView.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "TutorialPopupUIView.h"
+                }, 
+                "TwoTableCollectionView.h": {
+                    "key": "TwoTableCollectionView.h", 
+                    "prefix": "./", 
+                    "suffix": "TwoTableCollectionView.h"
+                }, 
+                "UIImageView+UIActivityIndicatorForSDWebImage.h": {
+                    "key": "UIImageView+UIActivityIndicatorForSDWebImage.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "UIImageView+UIActivityIndicatorForSDWebImage.h"
+                }, 
+                "UITabBarController+TabBarControl.h": {
+                    "key": "UITabBarController+TabBarControl.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "UITabBarController+TabBarControl.h"
+                }, 
+                "UIView+Animation.h": {
+                    "key": "UIView+Animation.h", 
+                    "prefix": "./", 
+                    "suffix": "UIView+Animation.h"
+                }, 
+                "VoteScreenCollectionView.h": {
+                    "key": "VoteScreenCollectionView.h", 
+                    "prefix": "./", 
+                    "suffix": "VoteScreenCollectionView.h"
+                }, 
+                "VoteScreenCollectionViewCell.h": {
+                    "key": "VoteScreenCollectionViewCell.h", 
+                    "prefix": "petGallery/", 
+                    "suffix": "VoteScreenCollectionViewCell.h"
+                }, 
+                "VoteSummaryViewController.h": {
+                    "key": "VoteSummaryViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "VoteSummaryViewController.h"
+                }, 
+                "WelcomeScreenViewController.h": {
+                    "key": "WelcomeScreenViewController.h", 
+                    "prefix": "./", 
+                    "suffix": "WelcomeScreenViewController.h"
+                }, 
+                "WinParticleView.h": {
+                    "key": "WinParticleView.h", 
+                    "prefix": "./", 
+                    "suffix": "WinParticleView.h"
+                }, 
+                "achieveData.h": {
+                    "key": "achieveData.h", 
+                    "prefix": "./", 
+                    "suffix": "achieveData.h"
+                }, 
+                "funData.h": {
+                    "key": "funData.h", 
+                    "prefix": "./", 
+                    "suffix": "funData.h"
+                }, 
+                "xpBarProgressView.h": {
+                    "key": "xpBarProgressView.h", 
+                    "prefix": "./", 
+                    "suffix": "xpBarProgressView.h"
+                }
+            }, 
+            "type": "iquote"
+        }
+    ], 
+    "infoplists": [
+        "./petGallery/Pick Something-Info.plist"
+    ], 
+    "libs": [
+        "z.1.2.5", 
+        "z.1.1.3"
+    ], 
+    "modules": [], 
+    "pchs": [
+        "./petGallery/Pick Something-Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "BadgeCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "BadgesUICollectionView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "BadgesViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "CelebrateParticleView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Emitter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "GlobeParticleEmitter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "GoldCoinParticleEmitter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "IAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "InfluenceCollectionViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "InternetOfflineViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "LeaderboardsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "LevelUpViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MCCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PickIAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PlayerProgressViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "TopBarViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "TwoTableCollectionView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "UIView+Animation.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "VoteScreenCollectionView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "VoteSummaryViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "WelcomeScreenViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "WinParticleView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "achieveData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "funData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/AddContentViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/BuyPetViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/BuyStuffViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentSelectCaptionViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentSelectHashtagsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentSelectPerformanceStatsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentSelectRatingViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentSelectReportInappropriateViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentSelectSocialViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/ContentVotingViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/External/http Reachability/Reachability.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/FPCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/FrontPageNewPFQueryTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/FrontPagePFQueryTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/FrontPageSelectionViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/FrontPageViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/FullImageViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/GoldStoreViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/HashtagSearchViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/LeaderboardPFQueryTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/LossScreenViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MBProgressHUD.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MainLoadTabBarController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MarketScreenViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MarketplaceQueryTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MarketplaceQueryUITableViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MarketplaceTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyContentViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyPetCollectUIButton.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyPetDetailsNavViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyPetDetailsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyPetsQueryTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyPetsQueryUITableViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MySignUpViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/MyStuffViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/NSMutableArray+NSMutableArrayShuffle.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/NSObject+SBJSON.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/NSString+SBJSON.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PSCollectionView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PSCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/Pet.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PetLoginViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PetPhotoDetailViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PetPhotoViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PetRatingViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PlayerData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PlayerProfileViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/PopupViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/SBJSON.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/SBJsonBase.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/SBJsonParser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/SBJsonWriter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/SearchResultsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/TopBarWithBackButtonViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/TutorialPopupUIView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/UIImageView+UIActivityIndicatorForSDWebImage.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/UITabBarController+TabBarControl.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/VoteScreenCollectionViewCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIAuthenticationDialog.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIDataCompressor.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIDataDecompressor.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIDownloadCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIFormDataRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIHTTPRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASIInputStream.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/ASINetworkQueue.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesCDNRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesContainer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesContainerRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesObject.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesObjectRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/CloudFiles/ASICloudFilesRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/S3/ASIS3Bucket.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/S3/ASIS3BucketObject.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/S3/ASIS3BucketRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/S3/ASIS3ObjectRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/S3/ASIS3Request.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/http Classes/S3/ASIS3ServiceRequest.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "petGallery/main.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "xpBarProgressView.m"
+        }
+    ], 
+    "type": "app", 
+    "version": "1", 
+    "xcode_project": "Pick Something.xcodeproj"
+}

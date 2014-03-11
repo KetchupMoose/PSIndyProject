@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon-29x29-px</string>
+				<string>icon-80x80-px</string>
+				<string>icon-58x58-px</string>
+				<string>icon-114x114-px</string>
+				<string>icon-57x57-px</string>
+				<string>icon-120x120-px</string>
+				<string>app-icon-ios6 29</string>
+				<string>app-icon-ios6 58</string>
+				<string>app-icon-ios6 80</string>
+				<string>app-icon-ios6 57</string>
+				<string>app-icon</string>
+				<string>app-icon-ios6</string>
+				<string>Icon</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon-40x40-px</string>
+				<string>icon-50x50-px</string>
+				<string>icon-100x100-px</string>
+				<string>icon-152-152</string>
+				<string>icon-144x144</string>
+				<string>icon-76x76</string>
+				<string>icon-72x72</string>
+				<string>icon-29x29-px</string>
+				<string>icon-80x80-px</string>
+				<string>icon-58x58-px</string>
+				<string>icon-114x114-px</string>
+				<string>icon-57x57-px</string>
+				<string>icon-120x120-px</string>
+				<string>app-icon-ios6 29</string>
+				<string>app-icon-ios6 58</string>
+				<string>app-icon-ios6 80</string>
+				<string>app-icon-ios6 57</string>
+				<string>app-icon</string>
+				<string>app-icon-ios6</string>
+				<string>Icon</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.contentgames.picksomething</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.02</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb366829830120069</string>
+				<string>pin1433833</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.13</string>
+	<key>FacebookAppID</key>
+	<string>366829830120069</string>
+	<key>FacebookDisplayName</key>
+	<string>Pick Something</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Copperplate.ttc</string>
+		<string>CooperBlackStd-Italic.otf</string>
+		<string>CooperBlackStd.otf</string>
+		<string>HoboStd.otf</string>
+	</array>
+	<key>UIMainStoryboardFile</key>
+	<string>MainStoryboard</string>
+	<key>UIMainStoryboardFile~ipad</key>
+	<string>MainStoryboard-iPad</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

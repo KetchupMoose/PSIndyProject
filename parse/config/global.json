@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "contentGames"
+        }, 
+        "contentGames": {
+            "applicationId": "X6Gpdbw0LhLLUWNAkhYiRlmoZrY6HiSoRhbSfQDW", 
+            "masterKey": "G10R4Z8XnFtj2YWjxj8JtHqtnQxbwnrMz90Csp5j"
+        }
+    }
+}
