@@ -7,7 +7,7 @@
 //
 
 #import <Parse/Parse.h>
-#import <SDWebImage/UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 @interface LeaderboardPFQueryTableViewController : PFQueryTableViewController
 
 @property (nonatomic,strong) PFQuery *querytouse;

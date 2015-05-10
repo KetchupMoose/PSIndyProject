@@ -8,9 +8,9 @@
 
 #import "LossScreenViewController.h"
 #import <Parse/Parse.h>
-#import <SDWebImage/UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 #import "UIImageView+UIActivityIndicatorForSDWebImage.h"
-
+#import <ParseFacebookUtils/PFFacebookUtils.h>
 @interface LossScreenViewController ()
 
 @end

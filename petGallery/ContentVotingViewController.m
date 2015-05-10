@@ -27,6 +27,7 @@
 #import "UIView+Animation.h"
 #import "UIImageView+UIActivityIndicatorForSDWebImage.h"
 #import <QuartzCore/QuartzCore.h>
+#import <ParseFacebookUtils/PFFacebookUtils.h>
 @interface ContentVotingViewController ()
 
 @end
@@ -926,6 +927,7 @@ static int curveValues[] = {
     
     UIImage *cellplaceholder = [UIImage imageWithContentsOfFile:@"imgloadingplaceholder.png"];
     UIActivityIndicatorViewStyle activityStyle = UIActivityIndicatorViewStyleGray;
+    
     
     
     [cell.theImgView setImageWithURL:[NSURL URLWithString:imgurl] placeholderImage:cellplaceholder options:SDWebImageRetryFailed usingActivityIndicatorStyle:(UIActivityIndicatorViewStyle)activityStyle];

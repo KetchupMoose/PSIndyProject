@@ -13,7 +13,7 @@
 #import "FrontPageSelectionViewcontroller.h"
 #import "UIView+Animation.h"
 #import "HashtagSearchViewController.h"
-#import <SDWebImage/SDWebImageManager.h>
+#import "SDWebImageManager.h"
 #import "MBProgressHUD.h"
 
 

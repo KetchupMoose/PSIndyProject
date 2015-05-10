@@ -8,7 +8,7 @@
 
 #import <Parse/Parse.h>
 #import "BuyPetViewController.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 #import "MyPetCollectUIButton.h"
 #import "PlayerData.h"
 #import "MBProgressHUD.h"

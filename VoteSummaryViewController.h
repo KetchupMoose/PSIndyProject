@@ -13,7 +13,7 @@
 #import <AudioToolbox/AudioToolbox.h>
 #import "TopbarViewController.h"
 #import "LossScreenViewController.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+#import "SDWebImage/UIImageView+WebCache.h"
 
 @class VoteSummaryViewController;
 

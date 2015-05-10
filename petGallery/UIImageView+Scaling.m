@@ -8,8 +8,8 @@
 
 #import "UIImageView+Scaling.h"
 #import "UIImage+Scaling.h"
-#import <SDWebImage/SDImageCache.h>
-#import <SDWebImage/SDWebImageDownloader.h>
+#import "SDImageCache.h"
+#import "SDWebImageDownloader.h"
 
 @implementation UIImageView (Scaling)
 

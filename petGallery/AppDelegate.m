@@ -17,7 +17,7 @@
 #import "PickIAPHelper.h"
 #import "InternetOfflineViewController.h"
 #import "MainLoadTabBarController.h"
-
+#import <ParseFacebookUtils/PFFacebookUtils.h>
 @implementation AppDelegate
 {
     NSMutableArray *pets;

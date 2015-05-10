@@ -7,6 +7,7 @@
 //
 
 #import "PlayerData.h"
+#import <ParseFacebookUtils/PFFacebookUtils.h>
 
 @implementation PlayerData
 @synthesize playerscore;

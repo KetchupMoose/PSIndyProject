@@ -13,7 +13,7 @@
 #import "ASIFormDataRequest.h"
 #import "JSON.h"
 #import <parse/parse.h>
-
+#import <ParseFacebookUtils/PFFacebookUtils.h>
 
 @interface ContentSelectSocialViewController ()
 {

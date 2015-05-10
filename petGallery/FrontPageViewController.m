@@ -11,7 +11,7 @@
 #import "FPCollectionViewCell.h"
 #import "TopBarViewController.h"
 #import "HashtagSearchViewController.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 #import "UIImageView+UIActivityIndicatorForSDWebImage.h"
 #import "UIImageView+Scaling.h"
 
